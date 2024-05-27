@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for open-s
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Java, C, C++
+- **Languages:** Python, JavaScript, Html, Css Java, C, C++
 - **Frameworks:** React
 - **Tools:** Gradle, Git, VS Code
 - **Databases:** MySQL, PostgreSQL
