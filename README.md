@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm a software developer with a passion for open-s
 - **Tools:** Gradle, Git, VS Code
 - **Databases:** MySQL, PostgreSQL
 
+<img align="left" alt"React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
 
 
 ## 📌 Pinned Repositories
