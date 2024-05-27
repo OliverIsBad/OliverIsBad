@@ -9,9 +9,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for open-s
 - **Tools:** Gradle, Git, VS Code
 - **Databases:** MySQL, PostgreSQL
 
-## 📈 GitHub Stats
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repositories
 
@@ -23,9 +21,8 @@ Welcome to my GitHub profile! I'm a software developer with a passion for open-s
 
 . . . 
 
-## 🌟 Highlights
+## 📈 GitHub Stats
 
-- [**Open Source Contributor**](https://github.com/johndoe/contributions) - Regularly contributing to various open-source projects.
-- [**Hackathon Winner**](https://github.com/johndoe/hackathon-winner) - Won first place in the 2023 XYZ Hackathon with a project on AI-driven healthcare solutions.
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=johndoe&color=blueviolet)
