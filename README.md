@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I'm a software developer with a passion for open-s
 <img align="left" alt="Mysql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-<img align="right" alt="gif" width ="230px" style="border-radius: 20%;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-
 <br />
 
 # 
