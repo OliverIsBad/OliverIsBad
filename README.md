@@ -1,6 +1,6 @@
 # Hi there, I'm Oliver 👋
 
-Welcome to my GitHub profile! I'm a software developer with a passion for open-source software and web development. I love creating innovative solutions and contributing to the tech community.
+Welcome to my GitHub profile! I'm a software developer with a passion for open-source software and web development. I love creating innovative solutions and contributing to the tech community. I am currently studying at the HSBI in Minden (https://www.hsbi.de)
 
 ## 🔧 Technologies & Tools
 
