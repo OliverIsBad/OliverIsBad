@@ -20,8 +20,6 @@ Welcome to my GitHub profile! I'm a software developer with a passion for open-s
 # 
 
 
-
-
 ## 📌 Pinned Repositories
 
 - [**TicTacToe**](https://github.com/OliverIsBad/TIC-TAC-TOE) - Simple java CLI for TicTacToe
