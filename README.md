@@ -32,5 +32,5 @@ Welcome to my GitHub profile! I'm a software developer from germany with a passi
 
 ## 📈 GitHub Stats
 
-[![Olivers's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverIsBad&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Olivers's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverIsBad&show_icons=true&theme=shades-of-purple&include-all-commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
