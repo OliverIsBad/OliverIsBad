@@ -34,4 +34,4 @@ Welcome to my GitHub profile! I'm a software developer with a passion for open-s
 
 [![Olivers's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverIsBad)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=johndoe&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=johndoe&color=shades-of-purple)
