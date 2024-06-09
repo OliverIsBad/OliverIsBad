@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a software developer from germany with a passion for open-source software and web development. I love creating innovative solutions and contributing to the tech community. I am currently studying at the HSBI in Minden (https://www.hsbi.de)
 
+
 ## 🔧 Technologies & Tools
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
