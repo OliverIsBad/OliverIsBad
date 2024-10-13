@@ -1,5 +1,5 @@
 # About me
-Welcome to my GitHub profile! I'm a software developer from Germany with a passion for open-source software and web development. I love creating innovative solutions and contributing to the tech community. Currently, I’m studying at HSBI in Minden (https://www.hsbi.de). Oh, and I use Vim, by the way. 😉
+Welcome to my GitHub profile! I'm a software developer from Germany with a passion for web development. I love creating innovative solutions and contributing to the tech community. Oh, and I use Vim, by the way. 😉
 
 ## 🔧 Technologies & Tools
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
